@@ -25,7 +25,7 @@
  "settings.units.exchange_rate": "Обменный курс",
  "settings.display.options": "Отображаемые данные",
  "settings.display.show_fees_section": "Комиссии, мемпул",
- "settings.display.fees_right_to_left": "Вн. вид комиссий",
+ "settings.display.fees_right_to_left": "Комиссии ← →",
  "settings.display.show_mining_pool": "Майнинг-пул",
  "settings.display.full_screen": "Полный экран",
  "settings.locale.time_format": "Формат времени",
